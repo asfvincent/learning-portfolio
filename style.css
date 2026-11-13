@@ -1,0 +1,47 @@
+CSS
+
+
+
+body{
+    font-family: Aeial, sans-serif;
+    backround-color: #f0f4f8;
+    color: #333;
+    margin: 0;
+}
+
+header {
+  background-color: #183153;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
+
+nav {
+  background-color: #28527a;
+  text-align: center;
+  padding: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 15px;
+}
+
+section {
+  background-color: white;
+  margin: 25px;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+h2 {
+  color: #28527a;
+}
+
+footer {
+  background-color: #183153;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
