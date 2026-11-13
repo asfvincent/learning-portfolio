@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vincent's Learning Portfolio</title>
+  <link rel="stylessheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Vincents Learning Portfolio</h1>
+  <p>Introduction to Information Science and Technology</p>
+</header>
+
+<nav>
+  <a href="#about">About Me</a>
+  <a href="#assignments">Assignments</a>
+  <a href="#skills">Skills</a>
+  <a href="#reflections">Reflections</a>
+</nav>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>My name is Vincent. I am a student studying 
+Information Science and Tecgnology. I am intrested 
+in computers, gaming, tecgnolgy, and cybersecurity.
+My goal is to develop my technolgy skills and
+prepare for a career in the technology field.</p>
+</section>
+
+<section id="assigments">
+  <h2>My Assignments and Projects</h2>
+  <ul>
+  <li>HTML and CSS Projects</li>
+  <li>JavaScript Assignments</li>
+  <li>Python Programming</li>
+  <li>SQL Database Projects</li>
+  <li>Cybersecurity Assignments</li>
+  <li>OSINT Research</li>
+</ul>
+</section>
+
+<section id="skills">
+  <h2>Skills I have Learned</h2>
+  <ul>
+    <li>HTML and CSS</li>
+    <li>JavaScript</li>
+    <li>Python</li>
+    <li>Cybersecurity</li>
+    <li>Research and Problem Sloving</li>
+  </ul>
+</section>
+
+<section id="reflections">
+  <h2>My Learning Reflections</h2>
+  <p>Throughout this course, I have learned
+  about programming, database, cybersecuirty, and
+  information technology. Some assigments were
+  challenging, but they helped me improve my
+  problem-solving and technical skills.</p>
+</section>
+
+<footer>
+  <p>Vincent's Learning Portfolio | 2026</p>
+</footer>
+
+</body>
+</html>
